@@ -1,0 +1,2 @@
+# Skak
+Blazor Chess

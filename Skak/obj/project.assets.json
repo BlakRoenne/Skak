@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nhaba\\source\\repos\\Skak\\Skak\\Skak.csproj",
+      "projectUniqueName": "C:\\Users\\nhaba\\Source\\Repos\\Skak\\Skak\\Skak.csproj",
       "projectName": "Skak",
-      "projectPath": "C:\\Users\\nhaba\\source\\repos\\Skak\\Skak\\Skak.csproj",
+      "projectPath": "C:\\Users\\nhaba\\Source\\Repos\\Skak\\Skak\\Skak.csproj",
       "packagesPath": "C:\\Users\\nhaba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nhaba\\source\\repos\\Skak\\Skak\\obj\\",
+      "outputPath": "C:\\Users\\nhaba\\Source\\Repos\\Skak\\Skak\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,7 +34,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,15 +62,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
